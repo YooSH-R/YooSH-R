@@ -4,10 +4,6 @@
 
 ![Java](https://img.shields.io/badge/Java-D75A28?style=flat) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-467A27?style=flat&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-268669?style=flat&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-695900?style=flat&logo=javascript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1469A8?style=flat&logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-AA3D1B?style=flat&logo=gitlab&logoColor=white)
 
-## GitHub 활동
-
-[![최근 1년간 GitHub 활동 그래프](https://ghchart.rshah.org/YooSH-R)](https://github.com/YooSH-R#js-contribution-activity)
-
 ## KDT | 프론트엔드 개발 과정
 
 | 프로젝트 | 직접 맡은 일 |
