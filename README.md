@@ -1,16 +1,26 @@
-## Hi there 👋
+# 유성현
 
-<!--
-**YooSH-R/YooSH-R** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+의료기기 회사의 홈페이지를 리뉴얼하면서 프론트엔드 개발을 시작했습니다. 이후 팀 프로젝트에서 백엔드 API를 설계하고 구현했고, 최근에는 팀의 인프라를 맡아 GitLab CI/CD 파이프라인을 구축했습니다.
 
-Here are some ideas to get you started:
+## KDT | 프론트엔드 개발 과정
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 프로젝트 | 맡은 일 |
+| --- | --- |
+| [유정메디텍 리뉴얼](https://github.com/YooSH-R/P1_yjmdt) | 첫 개인 프로젝트. 회사 소개와 취급 제품을 한눈에 볼 수 있는 랜딩페이지 제작 |
+| YES24 리뉴얼 | 첫 3인 팀 프로젝트. 사용자 흐름과 DB 설계, 상품 상세 페이지와 장바구니, 관리자 페이지 전체 개발 |
+
+## 삼성청년SW·AI아카데미(SSAFY)
+
+### 1학기
+
+| 프로젝트 | 맡은 일 |
+| --- | --- |
+| WhatSub | 2인 팀의 프론트엔드 담당. OTT 구독 관리 화면, 요금제 비교 계산기, 커뮤니티 게시글과 댓글 기능 개발 |
+
+### 2학기
+
+| 프로젝트 | 맡은 일 |
+| --- | --- |
+| 마실 | 반려 로봇 서비스의 백엔드 담당. 소셜 로그인, 펫 관리와 로봇 연결, 산책 기록 API 개발 |
+| thispatch | 게임 업데이트 분석 서비스의 백엔드 담당. 패치 판정 로직, 리뷰 집계 및 분석 API 개발 |
+| Elsehere | 여행 영어 회화 서비스의 인프라 담당. GitLab CI/CD 파이프라인 구축, 배포 자동화와 DB 백업 복원 검증 |
