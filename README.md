@@ -23,5 +23,3 @@
 | 마실 | 반려 로봇 서비스의 백엔드 담당. 소셜 로그인, 펫과 로봇 연결, 산책 기록 API 개발 |
 | thispatch | 게임 공지의 패치 판정 로직, 리뷰 집계와 분석 API 개발 |
 | Elsehere | 영어 회화 서비스의 인프라 담당. GitLab CI/CD 파이프라인 구축, 배포 자동화와 DB 백업 복원 검증 |
-
-**공개 소스:** [유정메디텍 리뉴얼](https://github.com/YooSH-R/P1_yjmdt) · [WhatSub](https://github.com/blunderblus/WhatSub)
