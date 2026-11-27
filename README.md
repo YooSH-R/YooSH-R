@@ -2,6 +2,10 @@
 
 의료기기 회사의 홈페이지를 리뉴얼하며 프론트엔드 개발을 시작했습니다. 이후 팀 프로젝트에서 백엔드 API와 데이터베이스를 설계했고, 최근에는 영어 회화 서비스 Elsehere의 인프라를 맡아 GitLab CI/CD 파이프라인을 구축했습니다.
 
+[노션 포트폴리오 보기](https://app.notion.com/p/42346d4b3d848172ae70da9aa3c1fb29?pvs=204)
+
+
+
 ![Java](https://img.shields.io/badge/Java-D75A28?style=flat) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-467A27?style=flat&logo=springboot&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-268669?style=flat&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-695900?style=flat&logo=javascript&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1469A8?style=flat&logo=docker&logoColor=white) ![GitLab CI/CD](https://img.shields.io/badge/GitLab%20CI%2FCD-AA3D1B?style=flat&logo=gitlab&logoColor=white)
 
 ## KDT | 프론트엔드 개발 과정
